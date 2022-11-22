@@ -30,7 +30,7 @@ class Main{
   public static void main(String[] args){
     
     // Creating FastReader Class Object.
-	  FastReader scanner = new FastReader();
+	  FastReader in = new FastReader();
 
   }
 }
